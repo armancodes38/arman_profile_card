@@ -6,7 +6,7 @@ This project displays a user profile with an image, bio, follower stats, and act
 ---
 
 ## 🚀 Live Preview  
-](https://armancodes38.github.io/arman_profile_card/)
+(https://armancodes38.github.io/arman_profile_card/)
 ---
 
 ## 📂 Project Structure
